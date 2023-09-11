@@ -1,0 +1,100 @@
+##   Sequence Setup Details   ##
+User	Sweep Profile Name	Profile Date
+RP	RP Small 1.2V	31/01/2020 16:20:13
+Profile Description : Small area cell 0.09cm2, current limit 3mA
+
+Start (v)	End (V)	Interval (V)# Points
+1.18	-0.1	0.02	65
+
+Pre Sweep Delay (s)	Pre Sweep Bias (V)	Data Dwell (#)	Point Delay (ms)	Current Limit (mA)
+5	0	1	40	3
+Estimated Sweep Time (s) 	Est Sweep Time (hh:mm:ss) 
+14.1	00:00:14
+
+Sweep Count Type	Sweep Count (#)Peak Tolerance (%)	Sweep Max Count (#)
+Fixed	2	0.1	20
+BiDirectional Sweeps : 	True
+Darksweeps : 	True Start Only
+
+Stabilised Current Setup
+Stabilised Measurement Type	Pre-Test Shutter closed (s)	Tolerance Setup (xµA for y points)	Interval Time (s)	Max Data Points (Time (s))
+	0	0 for 0	100	200(40)
+Cell Address : 	AdHoc
+Batch ID : 	B083
+Cell ID : 	B083S00D00P01
+Cell Description : 	S00 THF:ME 6000RPM SNO2
+
+Sweep Results Table
+Sequence #	Sweep #	Direction	Dark Measurment	Irradiance (Sun)	Voc (V)/Stabilised (true/False)	Isc (mA)	Jsc (mA/Cm²)	Fill factor (%)	Efficiency (%)	Pmax/Pstabilised (mW)	Imax/Istabilised (mA)	Vmax/Vhold (V)	Power (mW)	R at Isc (Ohms)	R at Voc (Ohms)	Act Sweep Time (s)	Pre Soak Time (s)	Sweep Rate (V/s)	OutputFile	Start Date	Start Time	End Date	End Time
+1	0	Forward	Dark	1	0.7386709	2.280073E-03	2.545733E-02	63.53602	1.194769E-02	1.075292E-03	1.955071E-03	0.5500014	0	1048925	33973.84	9.867	0.23	0.1297254	C:\Automated Solar Simulator\User Data\Rahul Patidar\Batch B083\B083S00D00P01-000-2020-18-12 163218.IV	18/12/2020	16:32:08	18/12/2020	16:32:18
+
+
+#############################################
+IV data
+VSource Forward	Sweep 000 (mA/cm²)			VSource Backward			
+1.1800	-4.057736					
+1.1600	-4.499527					
+1.1400	-4.433607					
+1.1200	-4.226373					
+1.1000	-3.998654					
+1.0800	-3.771213					
+1.0600	-3.564466					
+1.0400	-3.356503					
+1.0200	-3.140779					
+1.0000	-2.928242					
+0.9800	-2.669637					
+0.9600	-2.32667					
+0.9400	-1.8931					
+0.9200	-1.38641					
+0.9000	-0.8824971					
+0.8800	-0.513382					
+0.8600	-0.2748371					
+0.8400	-0.1414213					
+0.8200	-7.232683E-02					
+0.8000	-3.568627E-02					
+0.7800	-1.627001E-02					
+0.7600	-5.11264E-03					
+0.7400	1.899379E-03					
+0.7200	6.862829E-03					
+0.7000	1.044715E-02					
+0.6800	1.322012E-02					
+0.6600	1.534464E-02					
+0.6400	1.694063E-02					
+0.6200	1.843116E-02					
+0.6000	1.961853E-02					
+0.5800	2.050081E-02					
+0.5600	0.0212831					
+0.5400	2.194425E-02					
+0.5200	0.022469					
+0.5000	2.294983E-02					
+0.4800	2.337271E-02					
+0.4600	2.380961E-02					
+0.4400	2.419421E-02					
+0.4200	2.460249E-02					
+0.4000	2.499442E-02					
+0.3800	2.531674E-02					
+0.3600	2.564741E-02					
+0.3400	2.594326E-02					
+0.3200	2.621717E-02					
+0.3000	2.646298E-02					
+0.2800	2.671534E-02					
+0.2600	0.0268956					
+0.2400	0.0270235					
+0.2200	2.719433E-02					
+0.2000	2.719695E-02					
+0.1800	2.721873E-02					
+0.1600	2.714709E-02					
+0.1400	2.701712E-02					
+0.1200	2.687831E-02					
+0.1000	2.658644E-02					
+0.0800	2.641566E-02					
+0.0600	2.607409E-02					
+0.0400	2.583359E-02					
+0.0200	2.560498E-02					
+0.0000	2.533414E-02					
+-0.0200	2.515871E-02					
+-0.0400	0.0249914					
+-0.0600	2.490239E-02					
+-0.0800	2.471004E-02					
+-0.1000	2.441923E-02					
+-0.1000	2.329844E-02					
